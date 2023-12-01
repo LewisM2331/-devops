@@ -1,2 +1,2 @@
 # d_devops
-cd
+cd/
